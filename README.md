@@ -1,10 +1,7 @@
-# PlaneWar-MFC  
-MFC版本的飞机大战！程序设计综合实践完成的MFC飞机大战，无MFC基础，菜鸟一个。  
-实现了多关卡，多命，血条，魔法值，Boss及血条，暂停和重开，无敌模式，战机大招，  
-战机升级，护盾，血包，背景音乐和滚动等功能，战机帧动画效果，运行较为稳定，偶尔有些不是很清楚  
-的Bug，毕竟MFC刚接触，API也不熟，调试很久，算是可以了哈哈哈。  
+# PlaneGame-MFC  
+MFC version of Airplane Wars! The MFC aircraft battle completed by the comprehensive practice of programming, no MFC foundation, a rookie.
+Realized the functions of multi-level, multi-life, blood bar, mana value, boss and blood bar, pause and restart, invincible mode, fighter ultimate move, fighter upgrade, shield, blood pack, background music and scrolling, fighter frame
+animation As a result, the operation is relatively stable, and occasionally there are some
+bugs that are not very clear. After all, I am new to MFC, and I am not familiar with the API. It has been debugged for a long time, and it is okay hahaha.  
 
-![image](https://github.com/Coselding/PlaneWar-MFC/blob/master/screenshot/1.png)  
-
-
-![image](https://github.com/Coselding/PlaneWar-MFC/blob/master/screenshot/2.png)  
+  
